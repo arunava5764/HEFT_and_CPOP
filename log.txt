@@ -1,0 +1,11 @@
+fixed numner of processor: file No: 1,8,9,10,11,12,13,14,15,16,17,18
+processor count: 3
+task count: 10, 22, 32, 42, 52, 62, 72, 82, 92, 102, 112, 122
+schedule length: format=(HEFT, CPOP)
+result: [80,86], [244,260], [269,269], [348,445 or 332,293], [381,381 or 365,365], [439,439 or 433,433], [429,429 or 360,360], [753,753 or 745,745], [613,625 or 546,541], [618,618 or 567,567], [602,602 or 495,495], [752,752 or 729,729]
+
+fixed number of tasks: file No: 2,3,4,5,6,7
+task count: 122
+processor count: 3, 4, 5, 6, 7, 8
+schedule length: format=(HEFT, CPOP)
+result: [404,417 or 341,341], [395,420 or 430,430], [390,435 or 294,294], [365,402 or 398,398], [279,367 or 258,258], [218,249 or 197,210]
